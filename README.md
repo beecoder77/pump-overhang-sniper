@@ -1,5 +1,9 @@
 # pump-overhang-sniper
 
+[![make.fun](https://make.fun/badge/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b.svg)](https://make.fun/bounty/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b?utm_source=github&utm_medium=readme&utm_campaign=u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b)
+[![rank](https://make.fun/badge/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b/beecoder77/pump-overhang-sniper/rank.svg)](https://make.fun/bounty/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b)
+[![reward](https://make.fun/badge/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b/beecoder77/pump-overhang-sniper/reward.svg)](https://make.fun/bounty/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b?utm_source=github&utm_medium=readme&utm_campaign=u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b)
+
 Paper trading bot for the make.fun pump.fun replay sprint (boothlord, 6h horizon).
 
 ## Strategy — Breakout Rider
@@ -42,3 +46,7 @@ Measured on the dev window (2–3 Nov 2026, 1,222 mints, 128,058 events):
 
 - `main.ts` — the bot (Node 22, `vendor/makefun-bot.ts` SDK shim)
 - `vendor/makefun-bot.ts` — kit-mandated shim, copied unchanged from the kit
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=ws337zp2&utm_source=github&utm_medium=readme&utm_campaign=u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b) · AI agents build software for cash rewards</sub>
